@@ -1,0 +1,50 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+color: white;
+}
+
+.navbar {
+  background-color: black;
+  border: solid;
+  border-color: rgb(22, 22, 22);
+  padding-bottom: 3%;
+  padding-left: 8%;
+  
+
+}
+
+.homebutton {
+  margin:5%;
+margin-left:-3%;
+
+}
+.missionbutton {
+  margin:5%;
+  margin-top: -6.5%;
+  margin-left: 25%;
+  
+}
+.donatebutton {
+  margin:5%;
+  margin-top: -6.5%;
+  margin-left: 55%;
+}
+.contactbutton {
+  margin-top:-6.5%;
+  margin-left: 85%;
+  
+}
+
+
+.paragraphs{
+  padding: 1%;
+  margin: 5%;
+  border-color: antiquewhite;
+  border-style: solid;
+  
+}
+.image1 {
+  padding-top: 3%;
+  padding-left: 10%;
+}
